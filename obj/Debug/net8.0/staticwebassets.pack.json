@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/panlop/development/dotnet/DotnetStockAPI/wwwroot/uploads/aa1127f8-6b55-4b07-9f66-694da434b018.jpeg",
+      "PackagePath": "staticwebassets/uploads/aa1127f8-6b55-4b07-9f66-694da434b018.jpeg"
+    },
+    {
+      "Id": "/Users/panlop/development/dotnet/DotnetStockAPI/wwwroot/uploads/b208a8eb-af81-405d-81c6-ad1c788f54e7.png",
+      "PackagePath": "staticwebassets/uploads/b208a8eb-af81-405d-81c6-ad1c788f54e7.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.DotnetStockAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.DotnetStockAPI.props",
+      "PackagePath": "build\\DotnetStockAPI.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.DotnetStockAPI.props",
+      "PackagePath": "buildMultiTargeting\\DotnetStockAPI.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.DotnetStockAPI.props",
+      "PackagePath": "buildTransitive\\DotnetStockAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

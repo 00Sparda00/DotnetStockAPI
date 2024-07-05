@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "RllU7/DLp43aRWpEj54to9sSIGck/4WYfPNP97vb6dE=",
+  "Source": "DotnetStockAPI",
+  "BasePath": "_content/DotnetStockAPI",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DotnetStockAPI/wwwroot",
+      "Source": "DotnetStockAPI",
+      "ContentRoot": "/Users/panlop/development/dotnet/DotnetStockAPI/wwwroot/",
+      "BasePath": "_content/DotnetStockAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/panlop/development/dotnet/DotnetStockAPI/wwwroot/uploads/aa1127f8-6b55-4b07-9f66-694da434b018.jpeg",
+      "SourceId": "DotnetStockAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/panlop/development/dotnet/DotnetStockAPI/wwwroot/",
+      "BasePath": "_content/DotnetStockAPI",
+      "RelativePath": "uploads/aa1127f8-6b55-4b07-9f66-694da434b018.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/uploads/aa1127f8-6b55-4b07-9f66-694da434b018.jpeg"
+    },
+    {
+      "Identity": "/Users/panlop/development/dotnet/DotnetStockAPI/wwwroot/uploads/b208a8eb-af81-405d-81c6-ad1c788f54e7.png",
+      "SourceId": "DotnetStockAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/panlop/development/dotnet/DotnetStockAPI/wwwroot/",
+      "BasePath": "_content/DotnetStockAPI",
+      "RelativePath": "uploads/b208a8eb-af81-405d-81c6-ad1c788f54e7.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/uploads/b208a8eb-af81-405d-81c6-ad1c788f54e7.png"
+    }
+  ]
+}
