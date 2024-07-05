@@ -1,1 +1,1 @@
-https://img5.pic.in.th/file/secure-sv1/dotnetstockapi.png
+https://pic.in.th/image/dotnetstockapi.CyiYbC
